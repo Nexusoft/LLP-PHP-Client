@@ -39,7 +39,7 @@
 	}
 	
 	
-	/** Class the tracks the duration of time elapsed in seconds or milliseconds.
+	/** Class to track the duration of time elapsed in seconds or milliseconds.
 		Used for socket timers to determine time outs. **/
 	class Timer
 	{
